@@ -12,3 +12,8 @@
 
 /datum/species/nucleation
 	required_playtimes_minutes = 12000 // 200 часов
+
+/datum/species/teshari
+	required_playtimes_minutes = -1
+
+	var/list/proc/species_abilities = list()

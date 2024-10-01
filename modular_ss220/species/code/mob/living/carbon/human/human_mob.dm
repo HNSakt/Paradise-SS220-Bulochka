@@ -10,3 +10,6 @@
 	. = ..()
 	if(amount)
 		nutrition = min(NUTRITION_LEVEL_FAT, nutrition + round(amount / 10))
+
+/mob/living/carbon/human/teshari/Initialize(mapload)
+	. = ..(mapload, /datum/species/teshari)
