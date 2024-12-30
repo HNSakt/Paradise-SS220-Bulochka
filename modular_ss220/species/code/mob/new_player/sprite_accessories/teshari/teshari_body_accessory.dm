@@ -4,3 +4,4 @@
 /datum/body_accessory/tail/teshari/teshari_fluffytail
 	name = "teshari fluffytail"
 	icon_state = "teshari_fluffytail"
+	allowed_species = list("Teshari")

@@ -12,6 +12,7 @@ var/list/proc/species_abilities = list()
 	language = "SCHECHI"
 	skinned_type = /obj/item/stack/sheet/fur
 	unarmed_type = /datum/unarmed_attack/claws
+	nojumpsuit = TRUE
 
 	burn_mod = 1.35
 	brute_mod = 0.7

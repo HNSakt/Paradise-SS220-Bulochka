@@ -17,6 +17,7 @@
 #include "code/mob/living/carbon/species/teshari.dm"
 #include "code/mob/new_player/sprite_accessories/teshari/teshari_face.dm"
 #include "code/mob/new_player/sprite_accessories/teshari/teshari_body_accessory.dm"
+#include "code/mob/new_player/sprite_accessories/teshari/teshari_clothes.dm"
 // BEGIN_INTERNALS
 // END_INTERNALS
 // BEGIN_FILE_DIR
