@@ -1,0 +1,4 @@
+#include "code/resomi.dm"
+#include "code/resomi_body_accessory.dm"
+#include "code/resomi_clothes.dm"
+#include "code/resomi_face.dm"
